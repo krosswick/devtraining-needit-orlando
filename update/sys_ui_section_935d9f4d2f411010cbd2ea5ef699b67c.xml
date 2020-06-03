@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Configuration Item Specifications" section_id="935d9f4d2f411010cbd2ea5ef699b67c" sys_domain="global" table="incident" version="3" view="hardware_issues">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-26 19:00:54</sys_created_on>
+            <sys_id>c41f9b8d2f411010cbd2ea5ef699b658</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-26 19:00:54</sys_updated_on>
+            <text>Enter cost if parts must be replaced.</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmdb_ci</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-26 19:00:54</sys_created_on>
+            <sys_id>081f9b8d2f411010cbd2ea5ef699b65b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration Item Specifications" display_value="Configuration Item Specifications" name="incident" sys_domain="global" view="921bd3852f411010cbd2ea5ef699b6a0">935d9f4d2f411010cbd2ea5ef699b67c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-26 19:00:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c41f9b8d2f411010cbd2ea5ef699b658</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-26 19:00:54</sys_created_on>
+            <sys_id>881f9b8d2f411010cbd2ea5ef699b65b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration Item Specifications" display_value="Configuration Item Specifications" name="incident" sys_domain="global" view="921bd3852f411010cbd2ea5ef699b6a0">935d9f4d2f411010cbd2ea5ef699b67c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-26 19:00:54</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-26 19:00:54</sys_created_on>
+            <sys_id>c81f17cd2f411010cbd2ea5ef699b61f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration Item Specifications" display_value="Configuration Item Specifications" name="incident" sys_domain="global" view="921bd3852f411010cbd2ea5ef699b6a0">935d9f4d2f411010cbd2ea5ef699b67c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-26 19:00:54</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmdb_ci.model_number</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-26 19:00:54</sys_created_on>
+            <sys_id>4c1f17cd2f411010cbd2ea5ef699b61f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration Item Specifications" display_value="Configuration Item Specifications" name="incident" sys_domain="global" view="921bd3852f411010cbd2ea5ef699b6a0">935d9f4d2f411010cbd2ea5ef699b67c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-26 19:00:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmdb_ci.asset_tag</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-26 19:00:54</sys_created_on>
+            <sys_id>cc1f17cd2f411010cbd2ea5ef699b61f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration Item Specifications" display_value="Configuration Item Specifications" name="incident" sys_domain="global" view="921bd3852f411010cbd2ea5ef699b6a0">935d9f4d2f411010cbd2ea5ef699b67c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-26 19:00:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmdb_ci.manufacturer.name</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-26 19:00:54</sys_created_on>
+            <sys_id>401f17cd2f411010cbd2ea5ef699b620</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration Item Specifications" display_value="Configuration Item Specifications" name="incident" sys_domain="global" view="921bd3852f411010cbd2ea5ef699b6a0">935d9f4d2f411010cbd2ea5ef699b67c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-26 19:00:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Configuration Item Specifications</caption>
+            <header>false</header>
+            <name>incident</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-26 18:53:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>935d9f4d2f411010cbd2ea5ef699b67c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Configuration Item Specifications</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_935d9f4d2f411010cbd2ea5ef699b67c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-26 18:53:29</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Hardware Issues" name="hardware_issues">921bd3852f411010cbd2ea5ef699b6a0</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

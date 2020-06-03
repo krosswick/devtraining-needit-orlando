@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_category_request">
+    <catalog_category_request action="INSERT_OR_UPDATE">
+        <category display_value="Test">6c4de9472f411010cbd2ea5ef699b68a</category>
+        <comments/>
+        <department display_value="Finance">a581ab703710200044e0bfc8bcbe5de8</department>
+        <department_or_group>group</department_or_group>
+        <due_date/>
+        <editors/>
+        <group display_value="ATF_TestGroup_Network" name="ATF_TestGroup_Network">3cc3c7680b982300cac6c08393673a03</group>
+        <manager display_value="Annie Approver">c9884ac30a0a0bdb3879454e8f02774e</manager>
+        <name>Test</name>
+        <number>roup</number>
+        <parent_category display_value="Departmental Services">95fc11615f1211001c9b2572f2b477c6</parent_category>
+        <published>true</published>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <state>published</state>
+        <sys_class_name>catalog_category_request</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-01 15:36:04</sys_created_on>
+        <sys_id>3089a1072f411010cbd2ea5ef699b6b7</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>roup</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>catalog_category_request_3089a1072f411010cbd2ea5ef699b6b7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-01 15:53:21</sys_updated_on>
+        <table display_value="Needit Groups" name="x_58872_needit_groups">e44de5872f411010cbd2ea5ef699b6a4</table>
+        <table_name>x_58872_needit_groups</table_name>
+    </catalog_category_request>
+</record_update>
